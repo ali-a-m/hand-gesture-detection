@@ -1,0 +1,6 @@
+mediapipe==0.9.0.1
+numpy==1.24.1
+opencv-python==4.7.0.68
+playsound==1.2.2
+tensorflow==2.11.0
+multithreading=0.2.0
